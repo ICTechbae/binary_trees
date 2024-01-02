@@ -1,39 +1,3 @@
-
-Chioma2000
-/
-binary_trees
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Breadcrumbsbinary_trees
-/README.md
-Go to file
-t
-Latest commit
-AysuarexJozinna Chioma
-Aysuarex
-and
-Jozinna Chioma
-Updated README Co-authored-by: Suara Ayomide<aysuarex@gmail.com> Co-a…
-9fa39a3
- · 
-2 years ago
-History
-Breadcrumbsbinary_trees
-/README.md
-File metadata and controls
-
-Preview
-
-Code
-
-Blame
-275 lines (227 loc) · 13.4 KB
 C - Binary trees
 This was a group project in which we learnt about the details, advantages, and disadvantages of using trees as data structures. We learned about how to qualify trees as well as how to traverse them. Throughout the project, we implemented binary, binary search, AVL, and Max Binary Heap trees.
 
