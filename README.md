@@ -13,7 +13,7 @@ This was a group project in which we learnt about the details, advantages, and d
 ## Resources
 #### Read or watch:
 
-* [Binary tree](./Binary tree):(_note the first line_:`Not to be confused with B-tree`.)
+* [Binary tree](./Binary tree): (note the first line:`Not to be confused with B-tree.`)
 * [Data Structure and Algorithms - Tree](./Data Structure and Algorithms - Tree)
 * [Tree Traversal](./Tree Traversal)
 * [Binary Search Tree](./Binary Search Tree)
